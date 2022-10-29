@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Boris  
-- 👀 I’m interested in Javascript/Typescript programming role prefferable Angular and Node JS
-- 🌱 I’m currently learning Angular/Nodejs (MEAN) stack.
+- 👀 I’m interested in Javascript/Typescript and C# ASP.NET Core programming role prefferable Angular and ASP.NET Core or NodeJS(Express)
 - 📫 How to reach me rizbo.ns.bk@gmail.com
 
 <!---
