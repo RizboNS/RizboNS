@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Boris  
-- 👀 I’m interested in Javascript/Typescript and C# ASP.NET Core programming role prefferable Angular and ASP.NET Core or NodeJS(Express)
+- 👀 Full-stack web developer: TypeScript/Javascript (Angular), C# (ASP.NET Core).
 - 📫 How to reach me rizbo.ns.bk@gmail.com
 
 <!---
